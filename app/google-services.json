@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "387660216304",
+    "project_id": "puma-is",
+    "storage_bucket": "puma-is.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387660216304:android:f656d114aa975386908f35",
+        "android_client_info": {
+          "package_name": "com.mp012202200038_01.apppuma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387660216304-u8o8vuqb93bros1mfmubinr82pk3f5fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaMUOk5wWbT2kBxNI6nVtf85T7NX8cL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387660216304-u8o8vuqb93bros1mfmubinr82pk3f5fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387660216304:android:eeed3561773e8db4908f35",
+        "android_client_info": {
+          "package_name": "com.mp012202200038_01.pumais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387660216304-tdel8lcc5hl12s0p1pv494jouj4d32up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mp012202200038_01.pumais",
+            "certificate_hash": "1fc9be5f0ffe0c2800836e64dd21f75b64cf7c07"
+          }
+        },
+        {
+          "client_id": "387660216304-u8o8vuqb93bros1mfmubinr82pk3f5fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaMUOk5wWbT2kBxNI6nVtf85T7NX8cL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387660216304-u8o8vuqb93bros1mfmubinr82pk3f5fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

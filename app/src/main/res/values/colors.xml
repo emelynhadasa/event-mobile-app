@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#375de4</color>
+    <color name="colorPrimaryDark">#375de4</color>
+    <color name="colorAccent">#03dac5</color>
+    <color name="smokyWhite">#fafafa</color>
+    <color name="lightText">#c9d37f</color>
+    <color name="hintColor">#b7c1e5</color>
+    <color name="searchBarColor">#0023a1</color>
+    <color name="greenBtnColor">#48ceb9</color>
+    <color name="lightBlue">#e6f2ff</color>
+    <color name="textBlue">#268eff</color>
+    <color name="deepBlue">#425186</color>
+    <color name="grey">#FF424242</color>
+
+    <color name="greyDate">#cdcfd1</color>
+    <color name="timeBackgroundGreen">#e8feed</color>
+    <color name="greenJoinBtnColor">#00bb5a</color>
+    <color name="lightGrey">#d8d8d8</color>
+    <color name="darkerGrey">#5a5a5a</color>
+    <color name="greenClock">#3cb043</color>
+</resources>
